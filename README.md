@@ -1,4 +1,4 @@
-#  Auto Mapping Agent
+#  Auto Mapping Agent(Structured Agentic Framework)
 
 An **NLP-based agentic AI system** using **Ollama's Phi-3 LLM** to perform autonomous mapping and decision-making tasks. Built with **FastAPI** and **Uvicorn**, this project provides a scalable backend for intelligent interactions, suitable for research, planning tools, or autonomous agents.
 
